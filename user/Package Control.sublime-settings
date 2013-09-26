@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"Better JavaScript",
+		"Boron Color Scheme",
+		"CoffeeScript",
+		"Color Highlighter",
+		"CTags",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"LESS",
+		"LiveStyle",
+		"MarkdownEditing",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"SublimeLinter",
+		"Surround",
+		"Theme - Soda",
+		"Vintage Numbers",
+		"Vintage Surround"
+	]
+}
